@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 /**
  * Application component
  *
@@ -24,15 +25,14 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Alexandrie Grenier",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
-  medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  name: "Sarbajit Acharjee",
+  title: "Web Developer and Content Creater",
+  email: "sarbajitacharjee712@gmail.com",
+  gitHub: "sarbajitacharjee",
+  instagram: "sarbajit_acharjee__sb/",
+  linkedIn: "sarbajit-achariya25/",
+  medium: "@sarbajitacharjee712",
+  twitter: "SarbajitAcharj2",
 };
 
 const primaryColor = "#4E567E";
